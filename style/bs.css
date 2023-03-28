@@ -1,0 +1,147 @@
+ /*
+    large
+  */
+@media only screen and (max-width:1400px) {
+  
+  input[type="text"]
+{
+    width: 1000px;
+    height: 250px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+}
+
+
+@media only screen and (max-width:1200px) {
+  
+  input[type="text"]
+{
+    width: 800px;
+    height: 250px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+
+}
+@media only screen and (max-width:1280px) {
+  
+  input[type="text"]
+{
+    width: 780px;
+    height: 250px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+*{
+  font-size: 20px;
+}
+
+}
+
+@media only screen and (max-width:1024px) {
+  
+  input[type="text"]
+{
+    width: 600px;
+    height: 250px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+}
+@media only screen and (max-width:960px) {
+  
+  input[type="text"]
+{
+    width: 550px;
+    height: 150px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+}
+
+
+@media only screen and (max-width:800px) {
+  
+  input[type="text"]
+{
+    width: 200px;
+    height: 75px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+*{
+  font-size: 12px;
+  margin: 20px;
+}
+
+button{
+  margin: 5px;
+  width: 150px;
+}
+}
+@media only screen and (max-width:720px) {
+  
+  input[type="text"]
+{
+    width: 400px;
+    height: 75px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+*{
+  font-size: 14px;
+  margin: 20px;
+}
+
+button{
+  margin: 5px;
+  width: 150px;
+}
+}
+
+
+@media only screen and (max-width:640px) {
+  
+  input[type="text"]
+{
+    width: 400px;
+    height: 100px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+*{
+  font-size: 10px;
+}
+}
+@media only screen and (max-width:320px) {
+  
+  input[type="text"]
+{
+    width: 160px;
+    height: 70px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+*{
+  font-size: 10px;
+}
+}
